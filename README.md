@@ -13,7 +13,7 @@ TEAM LEADER - Soumalya Bhattacharyya(Github Username - soucharya19)
 
 3rd TEAMMATE - Soumik Ghosh(GitHub Username - Soumik-Ghosh07)
 
-4th TEAMMATE - Aritra Sur(GitHub Username - AritraSur2001 )
+4th TEAMMATE - Aritra Sur(GitHub Username - )
 
 # THEME - Career Opportunities Website
 
