@@ -11,7 +11,7 @@ TEAM LEADER - Soumalya Bhattacharyya(Github Username - soucharya19)
 
 2nd TEAMMATE - Ashish Manna(GitHub Username - )
 
-3rd TEAMMATE - Soumik Ghosh(GitHub Username - )
+3rd TEAMMATE - Soumik Ghosh(GitHub Username - Soumik-Ghosh07)
 
 4th TEAMMATE - Aritra Sur(GitHub Username - AritraSur2001 )
 
