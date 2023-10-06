@@ -17,7 +17,7 @@ TEAM LEADER - Soumalya Bhattacharyya(Github Username - soucharya19)
 
 # THEME - Career Opportunities Website
 
-# WEB DEVELOPMENT PROJECT - CodeSquare
+# WEB DEVELOPMENT PROJECT - Coders Base
 
 Coders Base: Your one-stop solution for placements and your Ultimate Career Companion! 
 Unlock a world of opportunities with Coders Base! We're here to empower you with real-time resources about the latest, hackathons, coding contests, and coding contents - all tailored to ehance your skills and preferences! 
