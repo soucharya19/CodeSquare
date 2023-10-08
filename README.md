@@ -15,7 +15,7 @@ TEAM LEADER - Soumalya Bhattacharyya(Github Username - soucharya19)
 
 4th TEAMMATE - Aritra Sur(GitHub Username -  AritraSur2001)
 
-# THEME - Career Opportunities Website
+# THEME - Open Innovation
 
 # WEB DEVELOPMENT PROJECT - Coders Base
 
