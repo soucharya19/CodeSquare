@@ -33,6 +33,6 @@ HTML CSS and Javascript
 
 1.IDE Used for building code - VS Code Software
 
-2.Project Launch and Deployment Website - Vercel App
+2.Project Launch and Deployment Website - Netlify
 
 3.Tech Stacks Used - Web Developing Technologies like HTML, CSS, Javascript
